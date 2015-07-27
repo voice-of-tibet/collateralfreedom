@@ -1,2 +1,2 @@
 # collateralfreedom
-1. [Voice of Tibet](https://vt.global.ssl.fastly.net/)
+1. [Voice of Tibet](https://d13jdnpggvfdb.cloudfront.net/)
